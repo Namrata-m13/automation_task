@@ -1,0 +1,20 @@
+{
+  "name": "automation_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.7.2",
+    "chai": "^4.2.0",
+    "mocha": "^10.4.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
